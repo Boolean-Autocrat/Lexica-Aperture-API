@@ -1,4 +1,4 @@
-# Lexica Aperture API (pyLexicaAPI)
+# Lexica Aperture API
 
 An unofficial python wrapper for the Lexica Aperture image generation model API.
 
